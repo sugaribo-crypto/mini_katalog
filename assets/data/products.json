@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Mini Katalog Ürün Verisi",
+    "description": "Eğitim amaçlı simülasyon verisi. Yapı https://wantapi.com/products.php adresindeki demo API'den örnek alınmıştır.",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanyum. Güçlü. Hafif.",
+      "description": "Titanyum gövdesi ve A17 Pro çipiyle serinin en güçlü telefonu. Gelişmiş kamera sistemi gece çekimlerinde bile net fotoğraflar sunar.",
+      "price": 999,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone.png",
+      "specs": {
+        "Çip": "A17 Pro",
+        "Gövde": "Titanyum",
+        "Kamera": "48MP Ana"
+      }
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "tagline": "Yeni nesil, yeni renkler.",
+      "description": "Dynamic Island ve 48MP ana kamerayla günlük kullanım için dengeli bir akıllı telefon. Renkli cam arka yüzeyiyle şık bir tasarıma sahiptir.",
+      "price": 799,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone_pink.png",
+      "specs": {
+        "Çip": "A16 Bionic",
+        "Gövde": "Alüminyum",
+        "Kamera": "48MP Ana"
+      }
+    },
+    {
+      "id": 3,
+      "name": "iPhone 15 Plus",
+      "tagline": "Büyük ekran, uzun pil.",
+      "description": "6,7 inçlik geniş ekranı ve gün boyu dayanan pili ile film izlemek ve oyun oynamak isteyenler için ideal.",
+      "price": 899,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone_yellow.png",
+      "specs": {
+        "Çip": "A16 Bionic",
+        "Ekran": "6,7 inç",
+        "Pil": "Gün boyu"
+      }
+    },
+    {
+      "id": 4,
+      "name": "iPhone 14",
+      "tagline": "Her şeyi yapabilen telefon.",
+      "description": "Çift kamera sistemi ve güvenilir performansıyla uygun fiyatlı bir iPhone seçeneği.",
+      "price": 699,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone_blue.png",
+      "specs": {
+        "Çip": "A15 Bionic",
+        "Ekran": "6,1 inç",
+        "Kamera": "Çift kamera"
+      }
+    },
+    {
+      "id": 5,
+      "name": "iPhone SE",
+      "tagline": "Küçük boyut, büyük güç.",
+      "description": "Kompakt tasarımı ve Touch ID özelliğiyle tek elle kullanımı kolay, giriş seviyesi bir iPhone.",
+      "price": 429,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone_se.png",
+      "specs": {
+        "Çip": "A15 Bionic",
+        "Ekran": "4,7 inç",
+        "Kilit": "Touch ID"
+      }
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Profesyoneller için güç.",
+      "description": "M3 Max çipi ve Liquid Retina XDR ekranıyla video kurgu, 3D tasarım ve yazılım geliştirme gibi ağır işler için tasarlandı.",
+      "price": 2499,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook.png",
+      "specs": {
+        "Çip": "M3 Max",
+        "Ekran": "Liquid Retina XDR",
+        "Pil": "22 saat"
+      }
+    },
+    {
+      "id": 7,
+      "name": "MacBook Pro 14\"",
+      "tagline": "Taşınabilir performans.",
+      "description": "M3 Pro çipiyle güçlü, 14 inç boyutuyla taşınabilir. HDMI ve SD kart girişleri sayesinde adaptöre ihtiyaç duymazsınız.",
+      "price": 1599,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook_silver.png",
+      "specs": {
+        "Çip": "M3 Pro",
+        "Ekran": "14,2 inç",
+        "Girişler": "HDMI, SDXC"
+      }
+    },
+    {
+      "id": 8,
+      "name": "MacBook Air 15\"",
+      "tagline": "İnce, hafif, geniş ekran.",
+      "description": "Fansız tasarımı sayesinde sessiz çalışan, geniş ekranlı ve hafif bir dizüstü bilgisayar.",
+      "price": 1299,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook_air.png",
+      "specs": {
+        "Çip": "M2",
+        "Ağırlık": "1,5 kg",
+        "Soğutma": "Fansız"
+      }
+    },
+    {
+      "id": 9,
+      "name": "MacBook Air 13\"",
+      "tagline": "Her yere yanınızda.",
+      "description": "Öğrenciler ve günlük kullanım için ideal; uzun pil ömrüyle tüm gün şarj derdi yaşatmaz.",
+      "price": 1099,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook_starlight.png",
+      "specs": {
+        "Çip": "M2",
+        "Pil": "18 saat",
+        "Ekran": "13,6 inç"
+      }
+    },
+    {
+      "id": 10,
+      "name": "iMac",
+      "tagline": "Masaüstünde renk.",
+      "description": "İnce tasarımı ve 4,5K Retina ekranıyla ev ve ofis için hepsi bir arada masaüstü bilgisayar.",
+      "price": 1299,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/imac.png",
+      "specs": {
+        "Çip": "M3",
+        "Ekran": "24 inç 4,5K",
+        "Renk": "7 seçenek"
+      }
+    },
+    {
+      "id": 11,
+      "name": "iPad Pro 12.9\"",
+      "tagline": "En gelişmiş iPad.",
+      "description": "XDR ekranı ve M2 çipiyle çizim, tasarım ve video düzenleme için profesyonel bir tablet.",
+      "price": 1099,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/ipad.png",
+      "specs": {
+        "Çip": "M2",
+        "Ekran": "XDR",
+        "Kalem": "Hover desteği"
+      }
+    },
+    {
+      "id": 12,
+      "name": "iPad Air",
+      "tagline": "Hafif ve güçlü.",
+      "description": "M1 çipi ve 10,9 inç ekranıyla ders çalışmak, not almak ve eğlence için çok yönlü bir tablet.",
+      "price": 599,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/ipad_air.png",
+      "specs": {
+        "Çip": "M1",
+        "Ekran": "10,9 inç",
+        "Bağlantı": "5G"
+      }
+    },
+    {
+      "id": 13,
+      "name": "iPad Mini",
+      "tagline": "Avucunuzda iPad.",
+      "description": "8,3 inçlik kompakt boyutuyla okuma ve seyahat için en pratik iPad.",
+      "price": 499,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/ipad_mini.png",
+      "specs": {
+        "Çip": "A15 Bionic",
+        "Ekran": "8,3 inç",
+        "Kamera": "12MP Geniş"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Apple Watch Ultra 2",
+      "tagline": "Sınır tanımayan saat.",
+      "description": "Dayanıklı titanyum kasası ve çok parlak ekranıyla doğa sporları ve dalış için tasarlanmış akıllı saat.",
+      "price": 799,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/watch.png",
+      "specs": {
+        "Kasa": "Titanyum",
+        "Parlaklık": "3000 nit",
+        "GPS": "Çift frekans"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Apple Watch Series 9",
+      "tagline": "Daha akıllı, daha parlak.",
+      "description": "Çift dokunma hareketi ve sağlık özellikleriyle günlük yaşamın akıllı yardımcısı.",
+      "price": 399,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/watch_series9.png",
+      "specs": {
+        "Çip": "S9 SiP",
+        "Özellik": "Çift dokunma",
+        "Çevre": "Karbon nötr seçenek"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Apple Vision Pro",
+      "tagline": "Uzamsal bilgisayar.",
+      "description": "Göz, el ve ses ile kontrol edilen, dijital içeriği gerçek dünyayla birleştiren karma gerçeklik başlığı.",
+      "price": 3499,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/vision_pro.png",
+      "specs": {
+        "İşletim sistemi": "visionOS",
+        "Ekran": "Mikro-OLED",
+        "Kontrol": "Göz, el, ses"
+      }
+    },
+    {
+      "id": 17,
+      "name": "AirPods Pro (2nd Gen)",
+      "tagline": "Uyarlanabilir ses.",
+      "description": "Aktif gürültü engelleme ve uzamsal ses özelliğiyle müziği çevreden yalıtılmış şekilde dinlemenizi sağlar.",
+      "price": 249,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/airpods.png",
+      "specs": {
+        "Çip": "H2",
+        "Ses": "Uzamsal ses",
+        "Kutu": "USB-C"
+      }
+    },
+    {
+      "id": 18,
+      "name": "AirPods Max",
+      "tagline": "Kulak üstü saf ses.",
+      "description": "Kulak üstü tasarımı, yüksek kaliteli sürücüleri ve aktif gürültü engellemesiyle stüdyo kalitesinde dinleme deneyimi.",
+      "price": 549,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/airpods_max.png",
+      "specs": {
+        "Sürücü": "Dinamik",
+        "Gürültü engelleme": "Aktif",
+        "Kafa bandı": "Örgü file"
+      }
+    },
+    {
+      "id": 19,
+      "name": "HomePod",
+      "tagline": "Odayı dolduran ses.",
+      "description": "Bulunduğu odayı algılayarak sesi otomatik ayarlayan, akıllı ev merkezi olarak da çalışan hoparlör.",
+      "price": 299,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/homepod.png",
+      "specs": {
+        "Ses": "Hesaplamalı",
+        "Akıllı ev": "Hub",
+        "Sensör": "Oda algılama"
+      }
+    },
+    {
+      "id": 20,
+      "name": "HomePod Mini",
+      "tagline": "Küçük boyut, dolu ses.",
+      "description": "Küçük boyutuna rağmen 360 derece ses yayan, beş farklı renk seçeneğine sahip kompakt akıllı hoparlör.",
+      "price": 99,
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/homepod_mini.png",
+      "specs": {
+        "Boyut": "8,4 cm",
+        "Ses": "360 derece",
+        "Renk": "5 seçenek"
+      }
+    }
+  ]
+}
